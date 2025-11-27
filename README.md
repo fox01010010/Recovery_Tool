@@ -10,7 +10,7 @@
 
  * Clona o repo e brota na pasta:
 ```bash
-git clone [git@github.com/foxlife281/BIP39_Recovery_Tool.git](https://github.com/foxlife281/BIP39-_Recovery_Tool.git) && cd Recovery_Tool
+git clone [git@github.com/foxlife281/Recovery_Tool.git](https://github.com/foxlife281/Recovery_Tool.git) && cd Recovery_Tool-main
 ```
  
  * Instala as parada:
@@ -25,7 +25,7 @@ go build -o recovery.exe ./main.go
 
  * Executa o que foi compilado:
 ```bash
-BIP39_Recovery_Tool-1.0.0
+Recovery_Tool
 ```
 
 
@@ -33,7 +33,7 @@ BIP39_Recovery_Tool-1.0.0
 
  * Clona o repo e brota na pasta:
 ```bash
-  git clone [git@github.com/foxlife281/BIP39_Recovery_Tool.git](https://github.com/foxlife281/BIP39_Recovery_Tool.git) && cd Recovery_Tool
+  git clone [git@github.com/foxlife281/Recovery_Tool.git](https://github.com/foxlife281/Recovery_Tool.git) && cd Recovery_Tool-main
 ```
  
  * Instala as parada:
