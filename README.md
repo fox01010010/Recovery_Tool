@@ -28,6 +28,11 @@ go build -o recovery.exe ./main.go
 go.bat
 ```
 
+* Executar sem compilar:
+```bash
+go_1.bat
+```
+
 
 # Instruções para rodar o projeto no Linux / MacOS.
 
