@@ -10,7 +10,7 @@
 
  * Clona o repo e brota na pasta:
 ```bash
-git clone [git@github.com/foxlife281/Recovery_Tool.git](https://github.com/foxlife281/Recovery_Tool.git) && cd Recovery_Tool-main
+git clone [git@github.com:foxlife281/Recovery_Tool.git](https://github.com/foxlife281/Recovery_Tool.git) && cd Recovery_Tool-main
 ```
  
  * Instala as parada:
@@ -33,9 +33,9 @@ Recovery_Tool
 
  * Clona o repo e brota na pasta:
 ```bash
-  git clone [git@github.com/foxlife281/Recovery_Tool.git](https://github.com/foxlife281/Recovery_Tool.git) && cd Recovery_Tool-main
+  git clone [git@github.com:foxlife281/Recovery_Tool.git](https://github.com/foxlife281/Recovery_Tool.git) && cd Recovery_Tool-main
 ```
- 
+
  * Instala as parada:
 ```bash
  go mod tidy
