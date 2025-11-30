@@ -38,7 +38,7 @@ go_1.bat
 
  * Clona o repo e entra na pasta:
 ```bash
-  git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool
+  git clone https://github.com/fox01010010/fox_crypto.git && cd Recovery_Tool
 ```
 
  * Instala as parada:
